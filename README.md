@@ -15,7 +15,7 @@ This repository contains portfolio of data science and machine learning projects
 #### Formal Education
 
 * B.Sc. in Computer Science, [Bahria University](https://bahria.edu.pk)
-  * CGPA: 3.75
+  * CGPA: 3.75 - Cum Laude
   * Duration: Feb 2016 - Jan 2020
 
 #### Online Courses and Certifications
